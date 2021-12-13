@@ -1,1 +1,1 @@
-# CPU-COOLAR
+# solar_power
